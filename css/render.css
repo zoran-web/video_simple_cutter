@@ -1,0 +1,18 @@
+#current {
+    margin-left: 10px;
+    float: left;
+}
+#duration {
+    float: left;
+}
+.clear {
+    clear: both;
+}
+input {
+    padding: 3px;
+    margin-left: 5px;
+}
+.cutBtn {
+    float: right;
+    margin-bottom: 20px;
+}
